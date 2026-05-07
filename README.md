@@ -1,7 +1,21 @@
 #  MEAN Stack E-Commerce Platform
 
-A full-stack E-Commerce web application developed using the **MEAN Stack** technologies: **MongoDB, Express.js, Angular, and Node.js**.  
-The application provides an interactive shopping experience with product management, authentication, cart functionality, and admin dashboard features.
+A full-stack E-Commerce web application built using the **MEAN Stack** technologies — **MongoDB, Express.js, Angular, and Node.js**.  
+This application provides a modern online shopping experience with secure authentication, product management, cart functionality, and admin dashboard features.
+
+---
+
+#  Project Overview
+
+The project is designed to simulate a real-world E-Commerce platform where users can browse products, manage carts, place orders, and administrators can manage products, categories, and users through a dedicated dashboard.
+
+This project demonstrates:
+- Full-stack web development
+- RESTful API integration
+- Authentication & Authorization
+- CRUD Operations
+- Angular frontend architecture
+- MongoDB database connectivity
 
 ---
 
@@ -14,8 +28,8 @@ The application provides an interactive shopping experience with product managem
 - Product Details Page
 - Add to Cart
 - Wishlist Functionality
-- Order Management
 - Responsive UI Design
+- Order Management
 
 ---
 
@@ -116,18 +130,18 @@ http://localhost:3000
 
 - Full CRUD Operations
 - RESTful API Integration
-- MongoDB Database Connectivity
+- MongoDB Connectivity
 - Authentication & Authorization
-- Responsive Admin Dashboard
 - Dynamic Product Management
 - Cart & Wishlist System
+- Responsive Admin Dashboard
 
 ---
 
 #  Future Enhancements
 
-- Online Payment Integration
-- AI Product Recommendation System
+- Online Payment Gateway Integration
+- AI-Based Product Recommendation System
 - Order Tracking
 - Email Notifications
 - Advanced Search & Filters
@@ -136,8 +150,9 @@ http://localhost:3000
 
 #  Developer
 
-**Yashaswini A**  
-GitHub: https://github.com/yashaswini008
+## Yashaswini A
+
+- GitHub: https://github.com/yashaswini008
 
 ---
 
